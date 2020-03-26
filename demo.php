@@ -2,5 +2,5 @@
 
 function getInfo()
 {
-	echo "info";
+	return 'infomation';	
 }
